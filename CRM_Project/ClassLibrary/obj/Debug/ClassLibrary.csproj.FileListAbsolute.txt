@@ -1,0 +1,30 @@
+D:\Program\Dotnet\Windows Application\CRM Project\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Program\Dotnet\Windows Application\CRM Project\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Program\Dotnet\Windows Application\CRM Project\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\Program\Dotnet\Windows Application\CRM Project\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Program\Dotnet\Windows Application\CRM Project\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Program\Dotnet\Windows Application\CRM Project\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\gauri\Full Stack\CRM_Project\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\gauri\Full Stack\CRM_Project\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\gauri\Full Stack\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\gauri\Full Stack\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\gauri\Full Stack\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\gauri\Full Stack\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\monday 50% backup files\CRM_Project\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\monday 50% backup files\CRM_Project\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\monday 50% backup files\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\monday 50% backup files\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\monday 50% backup files\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\monday 50% backup files\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\dhira\source\repos\CRM_Project\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\dhira\source\repos\CRM_Project\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\dhira\source\repos\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\dhira\source\repos\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dhira\source\repos\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\dhira\source\repos\CRM_Project\ClassLibrary\obj\Debug\ClassLibrary.pdb

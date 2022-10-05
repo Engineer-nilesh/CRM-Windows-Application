@@ -1,0 +1,586 @@
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\AltoHttp.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\BouncyCastle.Crypto.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\clsAdmin.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\clsCoordinator.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\clsCounsellor.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\itextsharp.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\System.Text.Json.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\System.Memory.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\System.Text.Encodings.Web.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\System.Buffers.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\clsAdmin.pdb
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\clsCoordinator.pdb
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\clsCounsellor.pdb
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\itextsharp.xml
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.xml
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.AssemblyReference.cache
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.SuggestedBindingRedirects.cache
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe.config
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\Interop.VBScript_RegExp_55.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\Interop.WMPLib.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\AxInterop.WMPLib.dll
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.ResolveComReference.cache
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.AddFollowUp.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Bachmangement.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Form1.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormDash.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormNewBatch.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddCertificateDetailss.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddFeedbacktts.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddFeedbackStT.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddInventarycs.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewEnquirySource.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTest.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTestimonial.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddPayment.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmin.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmission.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmApplyLeaves.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmArrangeDemo.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmbrochure.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCertification.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangeCourse.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangePassword.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCoOrdinator.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewLab.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewUser.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDashboard.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDetails.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditFeedbackStT.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditFeedbackTtS.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditInventory.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditNewEnquiry.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTest.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTestimonial.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditUser.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryFollowUp.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryManagement.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackStudenttoTrainer.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackTrainertoStudent.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmForgotPassword.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmGetReceipt.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInternalPlacementReports.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInventoryManagment.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabInfo.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabManagement.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeadReports.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeaveManagement.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLogin.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewAdmission.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewEnquiry.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmPaymentsManagement.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmProfileSetting.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSplash.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentDetails.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentInfo.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentList.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSyllabus.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTaskManagement.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestimonial.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestManagement.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmUpdateAdmission.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmVideo.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewFollowUp.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Properties.Resources.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewTask.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.TransferStudent.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.ViewBatchDetails.resources
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.GenerateResource.cache
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CoreCompileInputs.cache
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe
+D:\Program\Dotnet\Windows Application\GSTEducationalCRMSoft\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.pdb
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.exe.config
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.exe
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.pdb
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\AltoHttp.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\BouncyCastle.Crypto.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\ClassLibrary.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\itextsharp.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\System.Text.Json.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\System.Memory.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\System.Text.Encodings.Web.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\System.Buffers.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\ClassLibrary.pdb
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\itextsharp.xml
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.xml
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\Interop.WMPLib.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\bin\Debug\AxInterop.WMPLib.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.AssemblyReference.cache
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.SuggestedBindingRedirects.cache
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe.config
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\Interop.VBScript_RegExp_55.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\Interop.WMPLib.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\AxInterop.WMPLib.dll
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.ResolveComReference.cache
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.AddFollowUp.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Form1.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormDash.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormNewBatch.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddCertificateDetailss.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddInventarycs.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewEnquirySource.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTest.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTestimonial.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddPayment.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmin.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmission.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmApplyLeaves.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmArrangeDemo.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmbrochure.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCertification.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangeCourse.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangePassword.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCoOrdinator.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewLab.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewUser.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDashboard.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDetails.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditInventory.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditNewEnquiry.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTest.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTestimonial.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditUser.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryFollowUp.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryManagement.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackStudenttoTrainer.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackTrainertoStudent.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmForgotPassword.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmGetReceipt.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInternalPlacementReports.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInventoryManagment.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabInfo.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabManagement.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeadReports.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeaveManagement.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLogin.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewAdmission.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewEnquiry.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmPaymentsManagement.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmProfileSetting.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSplash.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentDetails.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentInfo.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentList.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSyllabus.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTaskManagement.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestimonial.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestManagement.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmUpdateAdmission.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmVideo.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewFollowUp.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Properties.Resources.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewTask.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.TransferStudent.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.ViewBatchDetails.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.GenerateResource.cache
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CoreCompileInputs.cache
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CopyComplete
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.pdb
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddResult.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditResult.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewMore.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewStudents.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Batchmangement.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddFeedback.resources
+D:\Program\Dotnet\Windows Application\CRM Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditFeedback.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.exe.config
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.exe
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.pdb
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\AltoHttp.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\ClassLibrary.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\itextsharp.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\System.Text.Json.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\System.Memory.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\System.Buffers.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\ClassLibrary.pdb
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\itextsharp.xml
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe.config
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\Interop.VBScript_RegExp_55.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.ResolveComReference.cache
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.AddFollowUp.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Batchmangement.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Form1.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormDash.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormNewBatch.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddCertificateDetailss.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddFeedback.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddInventarycs.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewEnquirySource.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTest.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTestimonial.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddPayment.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddResult.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmin.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmission.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmApplyLeaves.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmArrangeDemo.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmbrochure.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCertification.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangeCourse.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangePassword.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCoOrdinator.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewLab.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewUser.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDashboard.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDetails.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditFeedback.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditInventory.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditNewEnquiry.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditResult.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTest.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTestimonial.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditUser.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryFollowUp.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryManagement.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackStudenttoTrainer.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackTrainertoStudent.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmForgotPassword.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmGetReceipt.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInternalPlacementReports.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInventoryManagment.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabInfo.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabManagement.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeadReports.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeaveManagement.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLogin.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewAdmission.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewEnquiry.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmPaymentsManagement.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmProfileSetting.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSplash.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentDetails.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentInfo.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentList.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSyllabus.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTaskManagement.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestimonial.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestManagement.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmUpdateAdmission.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmVideo.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewFollowUp.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewMore.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewStudents.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewTask.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.TransferStudent.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.ViewBatchDetails.resources
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.pdb
+C:\Users\lenovo\OneDrive\Documents\Windows Application(.Net)\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmExamResult.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.exe.config
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.exe
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.pdb
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\AltoHttp.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\BouncyCastle.Crypto.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\ClassLibrary.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\itextsharp.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Text.Json.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Memory.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Text.Encodings.Web.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Buffers.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\ClassLibrary.pdb
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\itextsharp.xml
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.xml
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Interop.WMPLib.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\bin\Debug\AxInterop.WMPLib.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.AssemblyReference.cache
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.SuggestedBindingRedirects.cache
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe.config
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\Interop.VBScript_RegExp_55.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\Interop.WMPLib.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\AxInterop.WMPLib.dll
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.ResolveComReference.cache
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.AddFollowUp.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Batchmangement.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Form1.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormDash.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormNewBatch.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddCertificateDetailss.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddFeedback.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddInventarycs.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewEnquirySource.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTest.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTestimonial.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddResult.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmin.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmission.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmApplyLeaves.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmArrangeDemo.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmbrochure.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCertification.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangeCourse.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangePassword.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCoOrdinator.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewLab.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewUser.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDashboard.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDetails.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditFeedback.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditInventory.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditNewEnquiry.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditResult.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTest.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTestimonial.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditUser.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryFollowUp.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryManagement.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmExamResult.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackStudenttoTrainer.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackTrainertoStudent.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmForgotPassword.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmGetReceipt.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInternalPlacementReports.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInventoryManagment.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabInfo.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabManagement.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeadReports.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeaveManagement.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLogin.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewAdmission.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewEnquiry.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmPaymentsManagement.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmProfileSetting.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSplash.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentDetails.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentInfo.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentList.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSyllabus.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTaskManagement.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestimonial.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestManagement.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmUpdateAdmission.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmVideo.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewFollowUp.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewMore.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewStudents.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Properties.Resources.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewTask.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.TransferStudent.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.ViewBatchDetails.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.GenerateResource.cache
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CoreCompileInputs.cache
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CopyComplete
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.pdb
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.ViewPaymentDetails.resources
+D:\gauri\Full Stack\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.AddPayment.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.exe.config
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.exe
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.pdb
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\AltoHttp.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\BouncyCastle.Crypto.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\ClassLibrary.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\itextsharp.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Text.Json.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Memory.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Text.Encodings.Web.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Buffers.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\ClassLibrary.pdb
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\itextsharp.xml
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.xml
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Interop.WMPLib.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\bin\Debug\AxInterop.WMPLib.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.AssemblyReference.cache
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.SuggestedBindingRedirects.cache
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe.config
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\Interop.VBScript_RegExp_55.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\Interop.WMPLib.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\AxInterop.WMPLib.dll
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.ResolveComReference.cache
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.AddFollowUp.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Batchmangement.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Form1.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormDash.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormNewBatch.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddCertificateDetailss.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddFeedback.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddInventarycs.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewEnquirySource.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTest.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTestimonial.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.AddPayment.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddResult.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmin.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmission.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmApplyLeaves.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmArrangeDemo.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmbrochure.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCertification.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangeCourse.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangePassword.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCoOrdinator.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewLab.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewUser.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDashboard.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDetails.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditFeedback.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditInventory.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditNewEnquiry.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditResult.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTest.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTestimonial.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditUser.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryFollowUp.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryManagement.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmExamResult.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackStudenttoTrainer.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackTrainertoStudent.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmForgotPassword.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmGetReceipt.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInternalPlacementReports.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInventoryManagment.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabInfo.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabManagement.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeadReports.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeaveManagement.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLogin.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewAdmission.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewEnquiry.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmPaymentsManagement.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmProfileSetting.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSplash.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentDetails.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentInfo.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentList.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSyllabus.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTaskManagement.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestimonial.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestManagement.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmUpdateAdmission.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmVideo.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewFollowUp.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewMore.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewStudents.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Properties.Resources.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewTask.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.TransferStudent.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.ViewBatchDetails.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.ViewPaymentDetails.resources
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.GenerateResource.cache
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CoreCompileInputs.cache
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CopyComplete
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe
+D:\monday 50% backup files\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.pdb
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.exe.config
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.exe
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\GSTEducationalCRMSoft.pdb
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\AltoHttp.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\ClassLibrary.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\itextsharp.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Text.Json.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Memory.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\System.Buffers.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\ClassLibrary.pdb
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\itextsharp.xml
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\Interop.WMPLib.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.AssemblyReference.cache
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe.config
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\Interop.VBScript_RegExp_55.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\Interop.WMPLib.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.ResolveComReference.cache
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.AddFollowUp.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Batchmangement.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Form1.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormDash.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FormNewBatch.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddCertificateDetailss.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddFeedback.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddInventarycs.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewEnquirySource.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTest.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddNewTestimonial.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.AddPayment.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAddResult.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmin.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmAdmission.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmApplyLeaves.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmArrangeDemo.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmbrochure.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCertification.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangeCourse.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmChangePassword.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCoOrdinator.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewLab.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmCreateNewUser.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDashboard.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmDetails.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditFeedback.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditInventory.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditNewEnquiry.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditResult.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTest.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditTestimonial.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEditUser.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryFollowUp.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmEnquiryManagement.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmExamResult.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackStudenttoTrainer.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmFeedbackTrainertoStudent.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmForgotPassword.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmGetReceipt.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInternalPlacementReports.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmInventoryManagment.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabInfo.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLabManagement.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeadReports.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLeaveManagement.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmLogin.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewAdmission.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmNewEnquiry.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmPaymentsManagement.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmProfileSetting.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSplash.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentDetails.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentInfo.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmStudentList.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmSyllabus.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTaskManagement.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestimonial.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmTestManagement.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmUpdateAdmission.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmVideo.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewFollowUp.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewMore.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewStudents.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.Properties.Resources.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.frmViewTask.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.TransferStudent.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.ViewBatchDetails.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.ViewPaymentDetails.resources
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.GenerateResource.cache
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CoreCompileInputs.cache
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.csproj.CopyComplete
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.exe
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.pdb
+C:\Users\dhira\source\repos\CRM_Project\GSTEducationalCRMSoft\obj\Debug\GSTEducationalCRMSoft.FrmAddCenterName.resources
